@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--new-eds-site--Yoge93.aem.live/
-- After: https://feature-MF--new-eds-site--Yoge93.aem.live/
+- After: https://<branch>--new-eds-site--Yoge93.aem.live/
